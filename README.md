@@ -39,7 +39,7 @@
 ## For Windows
 ```bash
 git clone https://github.com/Ell211/EllBotz.git
-cd XinzBot
+cd ELL BOTZ
 npm install
 node main
 ```
@@ -49,7 +49,7 @@ termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
 git clone https://github.com/Ell221/EllBotz.git
-cd XinzBot
+cd ELL BOTZ
 npm install
 node main
 ```
@@ -58,7 +58,7 @@ node main
 ```bash
 apt install nodejs git ffmpeg libwebp imagemagick
 git clone https://github.com/Ell221/EllBotz.git
-cd XinzBot
+cd ELL BOTZ
 npm install
 node main
 ```
